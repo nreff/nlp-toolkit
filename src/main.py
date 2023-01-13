@@ -1,5 +1,4 @@
-from preprocessing import Preprocessor
-from vectorization import Tokenization
+from preprocessing import Preprocessor, Tokenization
 
 
 def main():
